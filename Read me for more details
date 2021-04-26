@@ -1,0 +1,2 @@
+This game has 3 hero classes and enemy classes, using random.randint it also has rng. You have 3 attacks and if you die to an enemy you get your score printed out. There are
+are also 3 potions in this game.
